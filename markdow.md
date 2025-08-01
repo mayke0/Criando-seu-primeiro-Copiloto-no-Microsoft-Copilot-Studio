@@ -14,5 +14,5 @@ Criar seu primeiro agente de IA personalizado — o chamado "Copiloto" — usand
 - Testes e publicação:
 - Teste o agente em tempo real.
 - Publique em um site de demonstração para compartilhar com outras pessoas.
-💡 Resultado Final
+ Resultado Final:
 Ao final do processo, você terá um Copiloto funcional, capaz de interagir com usuários, responder perguntas e automatizar tarefas com base nas configurações que você definiu.
